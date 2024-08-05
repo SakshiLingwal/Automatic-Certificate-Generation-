@@ -1,4 +1,4 @@
-# Certificate Generator Project
+# Automatic Certificate Generation 
 
 This project allows you to generate certificates automatically using a certificate template and Python code. It also includes QR code generation for added functionality.
 
